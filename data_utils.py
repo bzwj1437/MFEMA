@@ -1,7 +1,4 @@
-#!/usr/bin/env/ python3
-# _*_ coding: utf-8 _*_
-# @Author: bzwj
-# @Time: 2024/1/27 10:27
+#数据处理模块
 
 import os
 import pickle
