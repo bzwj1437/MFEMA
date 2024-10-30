@@ -1,7 +1,4 @@
-#!/usr/bin/env/ python3
-# _*_ coding: utf-8 _*_
-# @Author: bzwj
-# @Time: 2024/1/29 21:21
+# 测试代码
 
 import logging
 import sys
