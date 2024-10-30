@@ -1,1 +1,1 @@
-# Joint contextual phrases and multi-perspective attention for Chinese-oriented aspect-based sentiment analysis
+# MFEMA:Chinese-Oriented Aspect-Based Sentiment Analysis with Multi-Scale Feature Extraction and Multi-Perspective Attention
