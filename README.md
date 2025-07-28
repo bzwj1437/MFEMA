@@ -1,1 +1,1 @@
-# MFEMA:Chinese-Oriented Aspect-Based Sentiment Analysis with Multi-Scale Feature Extraction and Multi-Perspective Attention
+# Recognizing Linguistic Structure: Hierarchical Phrase-Aware Learning for Chinese Aspect-Based Sentiment Analysis
